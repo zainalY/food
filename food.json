@@ -1,0 +1,19 @@
+[
+	 {
+            "name": "Kentang Goreng",
+            "description": "Kentang goreng merupakan makanan ringan yang sudah ada sejak ratusan tahun lalu. Tapi, makanan satu ini tetap dianggap buruk bila orang terlalu sering mengonsumsinya.",
+            "Rating": "8.16",
+            "categorie":"Makanan Ringan",
+            "place":"KFC | Pizza Hut",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+        },
+	
+	 {
+            "name": "Hot dog",
+            "description": "Roti berlapiskan daging sapi berukuran panjang dicampur dengan sedikit mayones, saus sambal, dan saus tomat ini pun memiliki kandungan yang tidak menyehatkan untuk tubuh.",
+            "Rating": "8.18",
+            "categorie":"Makanan Ringan",
+            "place":"McDonalds | KFC ",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+        }
+]
