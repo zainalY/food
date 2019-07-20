@@ -1,11 +1,10 @@
  [
         {
-            "name": "Motor Masa Depan",
+            "name": "Kentang Goreng",
             "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
             "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
+            "categorie":"Fast food | Drama | Adventure",
+            "place":"KFC",
             "img": "https://i.pinimg.com/originals/ef/f9/25/eff9259d87405cf20fd04e0019d72118.jpg"
         },
         {
