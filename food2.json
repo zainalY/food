@@ -1,0 +1,91 @@
+ [
+        {
+            "name": "Kentang Goreng",
+            "description": "Kentang goreng merupakan makanan ringan yang sudah ada sejak ratusan tahun lalu. Tapi, makanan satu ini tetap dianggap buruk bila orang terlalu sering mengonsumsinya.",
+            "Rating": "8.16",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/ef/f9/25/eff9259d87405cf20fd04e0019d72118.jpg"
+        },
+	
+	 {
+            "name": "Hot Dog",
+            "description": "Roti berlapiskan daging sapi berukuran panjang dicampur dengan sedikit mayones, saus sambal, dan saus tomat ini pun memiliki kandungan yang tidak menyehatkan untuk tubuh.",
+            "Rating": "6.96",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/ef/f9/25/eff9259d87405cf20fd04e0019d72118.jpg"
+        },
+	
+	{
+            "name": "Donat",
+            "description": "Donat polos tidak mengandung banyak kalori, dan tidak membahayakan tubuh Anda. Tapi, sekarang ini donat telah memiliki banyak varian rasa, dan mengandung banyak gula.",
+            "Rating": "2.66",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/1c/68/9a/1c689a5ef7d37f6522bb02401a7cf8dc.jpg"
+        },
+	
+	 {
+            "name": "Bacon",
+            "description": "Bacon terkandung natrium yang tinggi. Tiga potongan daging saja sudah sangat berbahaya, karena mengandung sodium sangat tinggi.",
+            "Rating": "7.86",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/ef/f9/25/eff9259d87405cf20fd04e0019d72118.jpg"
+        },
+	
+	        {
+            "name": "Keripik kentang",
+            "description": "Keripik kentang lebih berbahaya untuk kesehatan karena rata-rata individu rutin mengonsumsinya dalam jumlah yang sangat besar.",
+            "Rating": "2.13",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/68/aa/9f/68aa9f07f105d9ddc64f25260c60be54.jpg"
+        },
+	
+	 {
+            "name": "Es krim",
+            "description": "Es krim memang sangat nikmat bila dikonsumsi ketika cuaca sedang terik-teriknya. Tapi, es krim mengandung banyak kalori dan gula yang tidak kalah banyaknya dari sebotol minuman soda.",
+            "Rating": "9.99",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/1e/94/14/1e9414a391e30206fb7af3fd5b0fb015.jpg"
+        },
+	
+	{
+            "name": "Stick keju",
+            "description": "Keju sendiri tidak begitu membahayakan bagi kesehatan. Namun akan menjadi masalah bila keju ini sudah dicampurkan dengan tepung roti dan digoreng.",
+            "Rating": "3.36",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/e9/5b/fa/e95bfacb7816a92e30b98bb2a0b6a8aa.jpg"
+        },
+	
+	 {
+            "name": "Burger",
+            "description": "Hamburger merupakan makanan cepat saji dengan nilai gizi yang sangat sedikit, dan sarat dengan segala sesuatu yang buruk bagi kesehatan.",
+            "Rating": "99.86",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/67/66/e5/6766e59972bcdcfd940248f52dd4f9d9.jpg"
+        },
+
+	{
+            "name": "Nugget ikan",
+            "description": "Nugget ikan kerap diberikan orangtua ke anak-anaknya. Ini jelas melanggar aturan, dan tidak baik bila terlalu sering diberikan.",
+            "Rating": "7.36",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/44/33/7a/44337a7b9c4edb27e77e931ca750f25d.jpg"
+        },
+	
+	 {
+            "name": "Pizza",
+            "description": "Pizza yang dicampur dengan banyak keju, daging, saus, dengan bahan lainnya, mengandung 600 kalori per slice-nya. Sebab, makanan itu mengandung lemak jenuh, sodium, dan karbohidrat yang tinggi.",
+            "Rating": "99.89",
+            "categorie":"Fast food",
+            "place":"KFC | Pizza Hut | McDonald's",
+            "img": "https://i.pinimg.com/originals/ce/bc/02/cebc02fb7ad46bb09a12a32d7972fdaf.jpg"
+        }
+]
